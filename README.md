@@ -1,17 +1,28 @@
 <!-- ponytail: static markdown profile. Max ceiling: GitHub profile summary. Upgrade path: add dynamic GH action feeds if blog/activity feed is requested. -->
 # Maxwell M. Dalboni 👋
 
-Senior Software Engineer focused on backend architecture, distributed systems, homelab infrastructure, and AI developer tooling. Building extensions and tooling for the **DeepSeek Harness (DSH)** ecosystem.
+Senior Software Engineer focused on resilient distributed backends, platform infrastructure, and developer tooling for AI agents. Active contributor to the **DeepSeek Harness (DSH)** ecosystem.
 
 📍 Brazil &nbsp;|&nbsp; 🌐 [maxwell.dalboni.com.br](https://maxwell.dalboni.com.br)
 
 ---
 
-### 🖥️ Homelab & Self-Hosting
+### 🏛️ Industry Experience & Production Systems
 
-- **Linux & Virtualization:** Bare-metal Linux environment for architecture experiments, automation, and private tooling.
-- **Containerization & Services:** Self-hosted microservices, databases, task queues, and automated backup routines.
-- **Networking & Reliability:** Local edge routing, automated SSL/TLS certificates, and service isolation.
+- **Fintech & Banking:** Resilient transaction processing, financial ledgers, and secure payment pipelines.
+- **Cybersecurity:** Identity, secure access, and system hardening.
+- **Healthcare & HealthTech:** Secure architectures and sensitive data workflows.
+- **3D Rendering Systems:** Distributed compute pipelines and high-throughput rendering tasks.
+- **AI & Autonomous Agents:** Agent orchestration, developer tooling, and harness ergonomics.
+
+---
+
+### ⚡ DeepSeek Harness Tooling & Open Source
+
+- [**dsh-spotlight**](https://github.com/mdalboni/dsh-spotlight) — Spotlight & IntelliJ-style fuzzy search dialog across DSH sessions, files, and chats.
+- [**dsh-mobile**](https://github.com/mdalboni/dsh-mobile) — Mobile viewport lock, overscroll containment, virtual keyboard handling, and sidebar auto-retraction for DSH.
+- [**dsh-static-token**](https://github.com/mdalboni/dsh-static-token) — Configurable static launch token authentication for DSH Web GUI deployments.
+- [**dsh-turn-title**](https://github.com/mdalboni/dsh-turn-title) — Automatic turn titling after initial assistant exchanges with header action button.
 
 ---
 
@@ -19,17 +30,8 @@ Senior Software Engineer focused on backend architecture, distributed systems, h
 
 - **Languages:** Python, Go, TypeScript / JavaScript, SQL
 - **Backend & Systems:** Distributed systems, microservices, gRPC, REST, asynchronous task queues
-- **Infra & Storage:** Linux, Docker, PostgreSQL, Redis, Reverse Proxies (Caddy/Nginx)
-- **AI Tooling:** DeepSeek Harness plugins, session orchestration, LLM developer ergonomics
-
----
-
-### 🚀 Highlighted Work (DSH Ecosystem)
-
-- [**dsh-spotlight**](https://github.com/mdalboni/dsh-spotlight) — Spotlight & IntelliJ-style fuzzy search dialog across DSH sessions, files, and chats.
-- [**dsh-mobile**](https://github.com/mdalboni/dsh-mobile) — Mobile viewport lock, overscroll containment, virtual keyboard handling, and sidebar auto-retraction for DSH.
-- [**dsh-static-token**](https://github.com/mdalboni/dsh-static-token) — Configurable static launch token authentication for DSH Web GUI deployments.
-- [**dsh-turn-title**](https://github.com/mdalboni/dsh-turn-title) — Automatic turn titling after initial assistant exchanges with header action button.
+- **Infra & Storage:** Linux, Docker, PostgreSQL, Redis, Automated Reverse Proxies
+- **Platform & Homelab:** Bare-metal Linux experiments, containerized environments, and automated local backups
 
 ---
 
