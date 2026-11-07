@@ -3,7 +3,7 @@
 
 Senior Software Engineer focused on backend architecture, distributed systems, homelab infrastructure, and AI developer tooling. Building extensions and tooling for the **DeepSeek Harness (DSH)** ecosystem.
 
-📍 São Paulo, Brazil &nbsp;|&nbsp; 🌐 [maxwell.dalboni.com.br](https://maxwell.dalboni.com.br) &nbsp;|&nbsp; 🖥️ [lab.dalboni.com.br](https://lab.dalboni.com.br)
+📍 Brazil &nbsp;|&nbsp; 🌐 [maxwell.dalboni.com.br](https://maxwell.dalboni.com.br) &nbsp;|&nbsp; 🖥️ [lab.dalboni.com.br](https://lab.dalboni.com.br)
 
 ---
 
