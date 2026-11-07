@@ -3,16 +3,15 @@
 
 Senior Software Engineer focused on backend architecture, distributed systems, homelab infrastructure, and AI developer tooling. Building extensions and tooling for the **DeepSeek Harness (DSH)** ecosystem.
 
-📍 Brazil &nbsp;|&nbsp; 🌐 [maxwell.dalboni.com.br](https://maxwell.dalboni.com.br) &nbsp;|&nbsp; 🖥️ [lab.dalboni.com.br](https://lab.dalboni.com.br)
+📍 Brazil &nbsp;|&nbsp; 🌐 [maxwell.dalboni.com.br](https://maxwell.dalboni.com.br)
 
 ---
 
 ### 🖥️ Homelab & Self-Hosting
 
-- **Infrastructure:** Bare-metal Linux mini-cluster (`homelab-mini`) running 24/7.
-- **Workloads:** Containerized microservices, local databases, automated backups, and developer platforms.
-- **Networking & Security:** Private mesh via Tailscale, reverse proxies with automated SSL/TLS, and isolated environments.
-- **AI Tooling Hub:** Self-hosting DeepSeek Harness (DSH) instances at `*.dalboni.com.br`.
+- **Linux & Virtualization:** Bare-metal Linux environment for architecture experiments, automation, and private tooling.
+- **Containerization & Services:** Self-hosted microservices, databases, task queues, and automated backup routines.
+- **Networking & Reliability:** Local edge routing, automated SSL/TLS certificates, and service isolation.
 
 ---
 
@@ -20,7 +19,7 @@ Senior Software Engineer focused on backend architecture, distributed systems, h
 
 - **Languages:** Python, Go, TypeScript / JavaScript, SQL
 - **Backend & Systems:** Distributed systems, microservices, gRPC, REST, asynchronous task queues
-- **Infra & Storage:** Linux, Docker, PostgreSQL, Redis, Caddy/Nginx, Tailscale
+- **Infra & Storage:** Linux, Docker, PostgreSQL, Redis, Reverse Proxies (Caddy/Nginx)
 - **AI Tooling:** DeepSeek Harness plugins, session orchestration, LLM developer ergonomics
 
 ---
